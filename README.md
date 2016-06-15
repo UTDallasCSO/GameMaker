@@ -22,16 +22,16 @@
 
 ### Getting started
 * Double-click on the GameMaker icon on your desktop
->![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/1_zpsuhtopgnn.png)
+![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/1_zpsuhtopgnn.png)
 
 
 * We can also start the program from start menu or search options on windows 8.
     
     Now, click here 
 
-> ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/2_zpsr0giewrf.png)
+ ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/2_zpsr0giewrf.png)
 
 ### The First Screen ###
 
-> ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/3_zpsgcttlhma.png)
+ ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/3_zpsgcttlhma.png)
 
