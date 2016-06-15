@@ -32,10 +32,9 @@
     ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/2_zpsr0giewrf.png)
 
 ### The First Screen ###
+![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/3_zpsgcttlhma.png)
 
-    ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/3_zpsgcttlhma.png)
-    
-    ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/4_zpsebeatbpw.png)
+![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/4_zpsebeatbpw.png)
     
     
 ### Resources ###
