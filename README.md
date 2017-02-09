@@ -1,5 +1,7 @@
 # Game Maker
 
+http://gamemakertutorials.com/
+
 ### Learning objectives of the workshop
 * Basics of the GameMaker software
 * Algorithmic approach that characterizes writing computer programs
