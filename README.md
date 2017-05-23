@@ -24,26 +24,26 @@ http://gamemakertutorials.com/
 
 ### Getting started
 * Double-click on the GameMaker icon on your desktop
-    ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/1_zpsuhtopgnn.png)
+    ![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/1_zpsuhtopgnn.png)
 
 
 * We can also start the program from start menu or search options on windows 8.
     
     Now, click here 
 
-    ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/2_zpsr0giewrf.png)
+    ![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/2_zpsr0giewrf.png)
 
 ### The First Screen ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/3_zpsgcttlhma.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/3_zpsgcttlhma.png)
 
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/4_zpsebeatbpw.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/4_zpsebeatbpw.png)
     
     
 ### Resources ###
 * All the things that we can add to the game are called resources.
 * On the GameMaker software we can get them from any of the below areas:
 
-    ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/5_zps5tgtghkg.png)
+    ![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/5_zps5tgtghkg.png)
 
 ### Resources by definitions ###
 * _Sprites:_ Images that are used to show the objects 
@@ -70,7 +70,7 @@ http://gamemakertutorials.com/
 Now that we are acquainted  with the basic terminology required for working on the GameMaker software, let’s stretch ourselves to know more about various resources and their  functionalities.
 
 
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/6_zpsovjqh6tp.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/6_zpsovjqh6tp.png)
 
 ### Sprites ###
 
@@ -86,16 +86,16 @@ Now that we are acquainted  with the basic terminology required for working on t
  
 ### Adding Sprites ###
 * Click “Pacman” on the menu bar 
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/7_zps566b4v4i.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/7_zps566b4v4i.png)
 
 * Select Create Sprite from the Resources Menu
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/8_zpslpmv8upy.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/8_zpslpmv8upy.png)
 
 ### Sprite Properties ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/9_zpsfzyr32vp.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/9_zpsfzyr32vp.png)
 
 ### Sprite Properties: Starter Recommendations ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/10_zpsvgg2lhh0.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/10_zpsvgg2lhh0.png)
 
 ### Extra: Edit Sprite ###
 
@@ -136,10 +136,10 @@ Now that we are acquainted  with the basic terminology required for working on t
     - or when a mouse is clicked or…..
 
 ### How do I create an Object? ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/11_zpsynj0kx9y.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/11_zpsynj0kx9y.png)
 
 ### Tying a sprite to the object ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/12_zpsgsyxhqh6.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/12_zpsgsyxhqh6.png)
 
 ### Events and Actions ###
 * Now that the object has an associated sprite we need to give it some personality with an associated behavior.
@@ -149,9 +149,9 @@ Now that we are acquainted  with the basic terminology required for working on t
     2. Defining the actions they will take when the event occurs.
 
 ### Events ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/13_zpsoquzgpkf.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/13_zpsoquzgpkf.png)
 
-### Event Selector ### ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/14_zpsyhccvjrs.png)
+### Event Selector ### ![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/14_zpsyhccvjrs.png)
 
 Here is the Event Selector menu that lists possible events.  Included are a few brief descriptions:
 
@@ -176,19 +176,19 @@ Here is the Event Selector menu that lists possible events.  Included are a few 
 * Next we will look at a few of the actions available
  
 ### Event overview ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/15_zpsvcaagsft.png)
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/16_zpsp3xshs42.png)
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/17_zpstazhefjv.png)
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/18_zpsgy0luirp.png)
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/19_zpscwq5d7sf.png)
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/20_zpslckgtgph.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/15_zpsvcaagsft.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/16_zpsp3xshs42.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/17_zpstazhefjv.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/18_zpsgy0luirp.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/19_zpscwq5d7sf.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/20_zpslckgtgph.png)
 
 ### Too many events? ###
 We’ll take a little closer look at the move events then look at an example of having he rock controlled by the keyboard. (Example- Rock demonstration)
 
 ### Actions: Move ###
 
- ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/15_zpsvcaagsft.png)
+ ![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/15_zpsvcaagsft.png)
  
  Move Fixed : Give it a direction and speed for moving. (This is the action we will use for the rock) 
  Move Free: Give it direction and speed.
@@ -204,7 +204,7 @@ We’ll take a little closer look at the move events then look at an example of 
  
 ### Actions: Jump ###
  
- ![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/15_zpsvcaagsft.png)
+ ![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/15_zpsvcaagsft.png)
  
 * Jump to Position: Give an (x, y) coordinate
 * Jump to Start
@@ -217,16 +217,16 @@ We’ll take a little closer look at the move events then look at an example of 
 > **Note:** All “Jump” actions are defined in the description from left to right beginning from the top. 
 
 ### Example: Rock, Hit Key, Move ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/21_zps4ysc3ox7.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/21_zps4ysc3ox7.png)
 
 ### Keyboard Event ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/22_zpsz43sqbh0.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/22_zpsz43sqbh0.png)
 
 ### Pick Action ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/23_zpsnogokvzt.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/23_zpsnogokvzt.png)
 
 ### Pick the Direction ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/24_zpskzfsxv11.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/24_zpskzfsxv11.png)
 
 ### Review & Check ###
 * Sprite = Picture
@@ -242,7 +242,7 @@ We’ll take a little closer look at the move events then look at an example of 
 
 These are usually large images that are used as backgrounds (or foregrounds) for the rooms in which the game takes place, but they can also be large images composed of many smaller ones called tiles which you can then place individually in your room to create complex visual designs for levels with far less processing overhead than you would get with objects and sprites.
 
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/25_zpskrnvsich.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/25_zpskrnvsich.png)
 
 ### Rooms ###
 * Now we have a Rock sprite
@@ -252,10 +252,10 @@ These are usually large images that are used as backgrounds (or foregrounds) for
 * Now it’s time to make a Room.
 
 ### Adding a Room ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/26_zpsg9i8cryb.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/26_zpsg9i8cryb.png)
 
 ### Adding Objects to the Room ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/27_zpslsa81ysd.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/27_zpslsa81ysd.png)
 
 ### Review ###
 * Sprite = Picture
@@ -269,10 +269,10 @@ These are usually large images that are used as backgrounds (or foregrounds) for
 * We have a rock that will move left and right based on keys that are pressed.
 
 ### Running the Game ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/28_zpscfkd3uzd.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/28_zpscfkd3uzd.png)
 
 ### Game ###
-![] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/29_zpseglbz77o.png)
+![](http://i1305.photobucket.com/albums/s555/csk12utdsk12/GameMaker/29_zpseglbz77o.png)
 
 ### Game-1 ###
 * Create a brick sprite, brick object and use the brick objects to make walls.
